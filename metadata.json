@@ -1,0 +1,5 @@
+{
+  "name": "MPM Fracture - CRAMP - Line Crossing Algo Visualizer",
+  "description": "Interactive demonstration of the Line Crossing Algo algorithm used in Material Point Method fracture simulations.",
+  "requestFramePermissions": []
+}
