@@ -44,7 +44,7 @@ This will create a new folder named **`dist`** in project directory. This folder
 
 1.  Create a new repository
 2.  **Crucial Step**: Only need to upload the **contents** of the `dist` folder, not the source code (unless you want to store the source code there too).
-    *   *Option A (Source + Site)*: Commit the whole project. Push to GitHub. Go to Settings > Pages. Select "GitHub Actions" or configure it to serve from a `/dist`.
+    *   *Option A (Source + Site)*: Commit the whole project. Push to GitHub. Go to Settings > Pages. Select "GitHub Actions" or configure it to serve from a `/docs` (`/dist` rename or copy to `/docs`).
     *   *Option B (Manual Drag & Drop)*:
         1. Open repo on GitHub.com.
         2. Click "Add file" > "Upload files".
