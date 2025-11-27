@@ -1,5 +1,5 @@
 
-import { Point, Node, Particle, Crack, SimulationStep, FieldType } from './types';
+import { Point, Node, Particle, Crack, SimulationStep } from './types';
 
 // Matches Python: x1[0] * (x2[1] - x3[1]) + x2[0] * (x3[1] - x1[1]) + x3[0] * (x1[1] - x2[1])
 export const triangleArea = (x1: Point, x2: Point, x3: Point): number => {
